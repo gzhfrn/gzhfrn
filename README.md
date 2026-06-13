@@ -1,7 +1,7 @@
 <div align="center">
 <img src="once.gif" width="100%" alt="Sleeping Beauty Dancing Vibe" />
 
-<h1> 🧸 Welcome to Sani's space ʕ´•ᴥ•`ʔ </h1>
+<h1> 🧸 Welcome to Sani's space </h1>
 
 <h3><i>"Alis Volat Propriis" · She flies with her own wings.</i></h3>
 </div>
